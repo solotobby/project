@@ -3,7 +3,6 @@
 //classs that handles all profduct activities
 class Product
 {
-      
     function createProduct()
     {
         session_start();
